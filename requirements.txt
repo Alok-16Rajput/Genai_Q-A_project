@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+fastapi
+uvicorn
+langchain
+faiss-cpu
+sentence-transformers
+streamlit
+requests
