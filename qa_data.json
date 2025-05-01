@@ -1,0 +1,27 @@
+[
+  {
+    "context": "Diabetes is a chronic condition that affects how the body processes blood sugar (glucose).",
+    "question": "What is diabetes?",
+    "answer": "a chronic condition that affects how the body processes blood sugar"
+  },
+  {
+    "context": "Hypertension, also known as high blood pressure, increases the risk of heart disease and stroke.",
+    "question": "What is hypertension?",
+    "answer": "a condition that increases the risk of heart disease and stroke"
+  },
+  {
+    "context": "The flu is a contagious respiratory illness caused by influenza viruses.",
+    "question": "What causes the flu?",
+    "answer": "influenza viruses"
+  },
+  {
+    "context": "An MRI scan is a medical imaging technique used to visualize internal structures of the body in detail.",
+    "question": "What is an MRI scan used for?",
+    "answer": "to visualize internal structures of the body in detail"
+  },
+  {
+    "context": "Vaccines help the body develop immunity against diseases by stimulating the production of antibodies.",
+    "question": "How do vaccines help the body?",
+    "answer": "by stimulating the production of antibodies"
+  }
+]
